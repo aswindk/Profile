@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aswindk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswindivakaran) 
 
 # 💻 Tech Stack:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Verilog HDL](https://img.shields.io/badge/%20Verilog%20HDL-0c548a?style=for-the-badge) ![PCB design](https://img.shields.io/badge/%20PCB%20Design-046307?style=for-the-badge)
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Verilog HDL](https://img.shields.io/badge/%20Verilog%20HDL-0c548a?style=for-the-badge) ![PCB design](https://img.shields.io/badge/%20PCB%20Design-046307?style=for-the-badge)![gTest](https://img.shields.io/badge/%20gTest-046307?style=for-the-badge)
 
 
 ### ✍️ 
