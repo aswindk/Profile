@@ -101,5 +101,5 @@ A central place where I will be uploading all my personal, academic, and profess
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=aswindk&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=aswindk&icon=0&color=0" />
 </p>
