@@ -7,24 +7,29 @@
   <a href="mailto:333aswindivakaran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=aswindk&icon=0&color=0" />
+</p>
+
 ---
 
 ## 🧑‍💼 About Me
 
-I’m a tech enthusiast with a strong work ethic and a versatile skill set. My passion lies in embedded systems, C/C++ development, and hardware-software integration. I enjoy hands-on projects and thrive in collaborative and innovation-driven environments.
+💡 I'm a passionate engineer with a strong background in **embedded systems**, **hardware-software integration**, and **C/C++ development**.  
+🛠️ I believe in building impactful technology through hands-on learning and collaboration.  
+📍 Based in Kerala, India | Fluent in English, Malayalam, and Hindi  
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages & Development**  
+### 💻 Languages & Development  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-0c548a?style=for-the-badge&logo=verilog&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-0c548a?style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-2d2d2d?style=for-the-badge)
 
-**Tools & Platforms**  
+### ⚙️ Tools & Platforms  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -32,54 +37,75 @@ I’m a tech enthusiast with a strong work ethic and a versatile skill set. My p
 ![gTest](https://img.shields.io/badge/gTest-046307?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)
 
-**EDA Tools**  
-![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-ff0000?style=for-the-badge&logo=cadence&logoColor=white)
+### 📟 Communication Protocols  
+![I2C](https://img.shields.io/badge/I2C-007ACC?style=for-the-badge&logo=serializers&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-8A2BE2?style=for-the-badge&logo=serializers&logoColor=white)
+![UART](https://img.shields.io/badge/UART-1E90FF?style=for-the-badge&logo=serializers&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-228B22?style=for-the-badge&logo=ethernet&logoColor=white)
+
+### 🧪 EDA & Simulation  
+![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-ff0000?style=for-the-badge)
 ![Pspice](https://img.shields.io/badge/Pspice-555555?style=for-the-badge)
 
----
 
-## 📁 Featured Project Repository
+## 📌 Projects
 
-### 🔗 [My Projects Repository](https://github.com/aswindk/Profile)
+### 🔗 [📁 View Full Projects Repository](https://github.com/aswindk/Profile)
 
-A central place where I will be uploading all my personal, academic, and professional projects. Includes:
+- 🚗 **Black Box & Blind Spot Detection System**  
+  Vehicle safety system with ESP8266, GPS, Firebase DB & sensor suite  
+  `ESP8266 | Arduino | Firebase | GPS | Crash Analytics`
 
-- 🚗 **Black Box & Blind Spot Detection for Automobiles** – Vehicle safety system with ESP8266, Firebase, GPS, and sensors  
-- 🤖 **Bluetooth-Controlled Cleaning Robot** – An Arduino-based floor cleaner robot with basic automation  
+- 🤖 **Bluetooth-Controlled Floor Cleaner Robot**  
+  A simple home automation bot using Arduino UNO and HC-05  
+  `Arduino | Android Controller | DC Motors`
 
+> More projects coming soon, stay tuned!
 
 ---
 
 ## 💼 Experience
 
-### 👨‍💻 Quality Assurance Engineer – **Tejas Networks** (Mar 2025 – Present)  
-- Embedded system & PCB validation  
-- IPC standards and networking quality processes
+<details>
+  <summary>🧪 Quality Assurance Engineer – <strong>Tejas Networks</strong> (Mar 2025 – Present)</summary>
+  <ul>
+    <li>Embedded system & PCB validation</li>
+    <li>Exposure to IPC standards and networking protocols</li>
+  </ul>
+</details>
 
-### 🛠️ Intern – **Johnsoft Systems** (Nov 2024 – Mar 2025)  
-- C/C++ for Automotive HMI, Java/Kotlin Android Dev  
-- Vector CANoe, gTest, JUnit, RTOS, gRPC, and Polarion
+<details>
+  <summary>💻 Intern – <strong>Johnsoft Systems</strong> (Nov 2024 – Mar 2025)</summary>
+  <ul>
+    <li>C/C++ development for Automotive HMI</li>
+    <li>Worked with Kotlin, gRPC, Polarion, Vector CANoe, and gTest</li>
+  </ul>
+</details>
 
-### 📡 Intern – **Pace Lab, Kochi** (May 2023)  
-- IoT systems development using ESP32, NodeMCU, sensors
+<details>
+  <summary>🌐 Intern – <strong>Pace Lab, Kochi</strong> (May 2023)</summary>
+  <ul>
+    <li>Worked on IoT applications using ESP32 and NodeMCU</li>
+  </ul>
+</details>
 
 ---
 
 ## 📜 Certifications
 
-- 📘 VLSI SoC Design – MAVEN SILICON  
-- 🔌 Arduino Ecosystem – Alisons Informatics  
-- 🎓 HDLbits Verilog Exercises  
-- 🎖️ [OrCAD x Capture (Badge)](https://www.credly.com/badges/be0807c6-bf51-4830-bdac-11eaf0edeb86/public_url)  
-- 🎖️ [OrCAD x Presto (Badge)](https://www.credly.com/badges/d8aa1fb1-2f6e-4da9-acb6-390eb9d96514/public_url)  
+- 🧠 VLSI SoC Design – **MAVEN SILICON**  
+- 🔌 Arduino Ecosystem – **Alisons Informatics**  
+- 🛠️ HDLbits Verilog Exercise Completion  
+- 🏅 [OrCAD x Capture](https://www.credly.com/badges/be0807c6-bf51-4830-bdac-11eaf0edeb86/public_url)  
+- 🏅 [OrCAD x Presto](https://www.credly.com/badges/d8aa1fb1-2f6e-4da9-acb6-390eb9d96514/public_url)
 
 ---
 
 ## 🧠 Soft Skills
 
-- Leadership & Communication  
-- Teamwork & Adaptability  
-- Critical Thinking & Problem Solving
+- 💬 Leadership & Communication  
+- 🧩 Problem-Solving & Critical Thinking  
+- 🤝 Teamwork & Adaptability
 
 ---
 
@@ -87,7 +113,7 @@ A central place where I will be uploading all my personal, academic, and profess
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswindk&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aswindk&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aswindk&theme=radical" width="47%" />
 </p>
 
 ---
@@ -96,10 +122,4 @@ A central place where I will be uploading all my personal, academic, and profess
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aswindk&icon=0&color=0" />
 </p>
