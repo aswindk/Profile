@@ -60,7 +60,6 @@
   A simple home automation bot using Arduino UNO and HC-05  
   `Arduino | Android Controller | DC Motors`
 
-> More projects coming soon, stay tuned!
 
 ---
 
