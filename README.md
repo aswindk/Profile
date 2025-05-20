@@ -35,9 +35,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://images.squarespace-cdn.com/content/v1/561eabe2e4b01a2c5b4996ff/1605632628294-KSYA24WOSOM9TYEV11BL/canoe.png" alt="CANoe" height="28" style="vertical-align:middle; margin-right:4px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="gTest" height="28" style="vertical-align:middle; margin-right:4px;" /> gTest
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/JUnit_5_Banner.png" alt="JUnit" height="28" style="vertical-align:middle; margin-right:4px;" /> JUnit
+![CANoe](https://img.shields.io/badge/CANoe-00529B?style=for-the-badge&logo=vector&logoColor=white)
+![gTest](https://img.shields.io/badge/gTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-003B75?style=for-the-badge&logo=arm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
