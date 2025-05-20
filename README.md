@@ -32,8 +32,9 @@
 ![Unit Test](https://img.shields.io/badge/Unit%20Test-303030?style=for-the-badge&logo=testcafe&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CANoe](https://img.shields.io/badge/CANoe-00529B?style=for-the-badge&logo=vector&logoColor=white)
 ![gTest](https://img.shields.io/badge/gTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -41,6 +42,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-003B75?style=for-the-badge&logo=arm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ### 📟 Communication Protocols  
 ![I2C](https://img.shields.io/badge/I2C-007ACC?style=for-the-badge&logo=serializers&logoColor=white)
