@@ -33,7 +33,7 @@
 ### ⚙️ Tools & Platforms
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-%FF5B24.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![CANoe](https://img.shields.io/badge/CANoe-%23007ACC.svg?style=for-the-badge&logo=vector&logoColor=white)
 ![gTest](https://img.shields.io/badge/gTest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
