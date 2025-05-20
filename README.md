@@ -41,7 +41,7 @@
 ![CANoe](https://img.shields.io/badge/CANoe-%23ff4164.svg?style=for-the-badge&logo=vector&logoColor=white)
 ![gTest](https://img.shields.io/badge/gTest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23ff5b24.svg?style=for-the-badge&logo=firebase&logoColor=black)
-[![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📟 Communication Protocols
