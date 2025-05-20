@@ -23,9 +23,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Development
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%235d6cbf.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unit Test](https://img.shields.io/badge/Unit%20Test-%23000000.svg?style=for-the-badge&logo=testcafe&logoColor=white)
+![Unit Test](https://img.shields.io/badge/Unit%20Test-%235e5eec.svg?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-%23326B8E.svg?style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%23007396.svg?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
