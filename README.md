@@ -29,6 +29,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-0c548a?style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-2d2d2d?style=for-the-badge)
+![Unit Test](https://img.shields.io/badge/Unit%20Test-303030?style=for-the-badge&logo=testcafe&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -37,6 +38,9 @@
 ![CANoe](https://img.shields.io/badge/CANoe-FF9900?style=for-the-badge)
 ![gTest](https://img.shields.io/badge/gTest-046307?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-003B75?style=for-the-badge&logo=arm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📟 Communication Protocols  
 ![I2C](https://img.shields.io/badge/I2C-007ACC?style=for-the-badge&logo=serializers&logoColor=white)
