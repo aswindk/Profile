@@ -20,40 +20,38 @@
 📍 Based in Kerala, India | Fluent in English, Malayalam, and Hindi  
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Development  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Languages & Development
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-0c548a?style=for-the-badge)
-![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-2d2d2d?style=for-the-badge)
-![Unit Test](https://img.shields.io/badge/Unit%20Test-303030?style=for-the-badge&logo=testcafe&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-%23326B8E.svg?style=for-the-badge)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%23007396.svg?style=for-the-badge)
+![Unit Test](https://img.shields.io/badge/Unit%20Test-%23000000.svg?style=for-the-badge&logo=testcafe&logoColor=white)
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Tools & Platforms
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CANoe](https://img.shields.io/badge/CANoe-00529B?style=for-the-badge&logo=vector&logoColor=white)
-![gTest](https://img.shields.io/badge/gTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-003B75?style=for-the-badge&logo=arm&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![CANoe](https://img.shields.io/badge/CANoe-%23007ACC.svg?style=for-the-badge&logo=vector&logoColor=white)
+![gTest](https://img.shields.io/badge/gTest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-%230092D3.svg?style=for-the-badge&logo=arm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+### 📟 Communication Protocols
+![I2C](https://img.shields.io/badge/I2C-%23000000.svg?style=for-the-badge&logo=i2c&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-%234A90E2.svg?style=for-the-badge&logo=spi&logoColor=white)
+![UART](https://img.shields.io/badge/UART-%2356B254.svg?style=for-the-badge&logo=uart&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-%23228B22.svg?style=for-the-badge&logo=ethernet&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-%230073B9.svg?style=for-the-badge&logo=can&logoColor=white)
 
-### 📟 Communication Protocols  
-![I2C](https://img.shields.io/badge/I2C-007ACC?style=for-the-badge&logo=serializers&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-8A2BE2?style=for-the-badge&logo=serializers&logoColor=white)
-![UART](https://img.shields.io/badge/UART-1E90FF?style=for-the-badge&logo=serializers&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-228B22?style=for-the-badge&logo=ethernet&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN-006400?style=for-the-badge&logo=car&logoColor=white)
-
-### 🧪 EDA & Simulation  
-![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-ff0000?style=for-the-badge)
-![Pspice](https://img.shields.io/badge/Pspice-555555?style=for-the-badge)
+### 🧪 EDA & Simulation
+![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-%23E73E37.svg?style=for-the-badge)
+![Pspice](https://img.shields.io/badge/Pspice-%2354A88B.svg?style=for-the-badge)
 
 ---
 
