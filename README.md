@@ -20,6 +20,7 @@
 📍 Based in Kerala, India | Fluent in English, Malayalam, and Hindi  
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Development  
@@ -47,6 +48,7 @@
 ![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-ff0000?style=for-the-badge)
 ![Pspice](https://img.shields.io/badge/Pspice-555555?style=for-the-badge)
 
+---
 
 ## 📌 Projects
 
@@ -60,33 +62,20 @@
   A simple home automation bot using Arduino UNO and HC-05  
   `Arduino | Android Controller | DC Motors`
 
-
 ---
 
 ## 💼 Experience
 
-<details>
-  <summary>🧪 Quality Assurance Engineer – <strong>Tejas Networks</strong> (Mar 2025 – Present)</summary>
-  <ul>
-    <li>Embedded system & PCB validation</li>
-    <li>Exposure to IPC standards and networking protocols</li>
-  </ul>
-</details>
+### 🧪 Quality Assurance Engineer – **Tejas Networks** (Mar 2025 – Present)
+- Embedded system & PCB validation  
+- Exposure to IPC standards and networking protocols  
 
-<details>
-  <summary>💻 Intern – <strong>Johnsoft Systems</strong> (Nov 2024 – Mar 2025)</summary>
-  <ul>
-    <li>C/C++ development for Automotive HMI</li>
-    <li>Worked with Kotlin, gRPC, Polarion, Vector CANoe, and gTest</li>
-  </ul>
-</details>
+### 💻 Intern – **Johnsoft Systems** (Nov 2024 – Mar 2025)
+- C/C++ development for Automotive HMI  
+- Worked with Kotlin, gRPC, Polarion, Vector CANoe, and gTest  
 
-<details>
-  <summary>🌐 Intern – <strong>Pace Lab, Kochi</strong> (May 2023)</summary>
-  <ul>
-    <li>Worked on IoT applications using ESP32 and NodeMCU</li>
-  </ul>
-</details>
+### 🌐 Intern – **Pace Lab, Kochi** (May 2023)
+- Worked on IoT applications using ESP32 and NodeMCU  
 
 ---
 
