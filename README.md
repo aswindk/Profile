@@ -35,9 +35,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CANoe](https://img.shields.io/badge/CANoe-FF9900?style=for-the-badge)
-![gTest](https://img.shields.io/badge/gTest-046307?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)
+<img src="https://images.squarespace-cdn.com/content/v1/561eabe2e4b01a2c5b4996ff/1605632628294-KSYA24WOSOM9TYEV11BL/canoe.png" alt="CANoe" height="28" style="vertical-align:middle; margin-right:4px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="gTest" height="28" style="vertical-align:middle; margin-right:4px;" /> gTest
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/JUnit_5_Banner.png" alt="JUnit" height="28" style="vertical-align:middle; margin-right:4px;" /> JUnit
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-003B75?style=for-the-badge&logo=arm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -47,6 +47,7 @@
 ![SPI](https://img.shields.io/badge/SPI-8A2BE2?style=for-the-badge&logo=serializers&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-1E90FF?style=for-the-badge&logo=serializers&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-228B22?style=for-the-badge&logo=ethernet&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-006400?style=for-the-badge&logo=car&logoColor=white)
 
 ### 🧪 EDA & Simulation  
 ![OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-ff0000?style=for-the-badge)
