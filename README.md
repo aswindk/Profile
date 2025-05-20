@@ -38,14 +38,14 @@
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-%230092D3.svg?style=for-the-badge&logo=arm&logoColor=white)
-![CANoe](https://img.shields.io/badge/CANoe-%23007ACC.svg?style=for-the-badge&logo=vector&logoColor=white)
+![CANoe](https://img.shields.io/badge/CANoe-%23ff4164.svg?style=for-the-badge&logo=vector&logoColor=white)
 ![gTest](https://img.shields.io/badge/gTest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23ff5b24.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📟 Communication Protocols
-![I2C](https://img.shields.io/badge/I2C-%23000000.svg?style=for-the-badge&logo=i2c&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-%2324457a.svg?style=for-the-badge&logo=i2c&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-%234A90E2.svg?style=for-the-badge&logo=spi&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-%2356B254.svg?style=for-the-badge&logo=uart&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-%23228B22.svg?style=for-the-badge&logo=ethernet&logoColor=white)
