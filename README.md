@@ -25,21 +25,23 @@
 ### 💻 Languages & Development
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Unit Test](https://img.shields.io/badge/Unit%20Test-%23000000.svg?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-%23326B8E.svg?style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%23007396.svg?style=for-the-badge)
-![Unit Test](https://img.shields.io/badge/Unit%20Test-%23000000.svg?style=for-the-badge&logo=testcafe&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+
 
 ### ⚙️ Tools & Platforms
 
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23ff5b24.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![CANoe](https://img.shields.io/badge/CANoe-%23007ACC.svg?style=for-the-badge&logo=vector&logoColor=white)
-![gTest](https://img.shields.io/badge/gTest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-%230092D3.svg?style=for-the-badge&logo=arm&logoColor=white)
+![CANoe](https://img.shields.io/badge/CANoe-%23007ACC.svg?style=for-the-badge&logo=vector&logoColor=white)
+![gTest](https://img.shields.io/badge/gTest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23ff5b24.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📟 Communication Protocols
