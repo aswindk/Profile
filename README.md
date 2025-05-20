@@ -59,7 +59,7 @@
 
 ## 📌 Projects
 
-### 🔗 [📁 View Full Projects Repository](https://github.com/aswindk/Profile)
+### 🔗 [📁 View Full Projects Repository](https://github.com/aswindk/Projects)
 
 - 🚗 **Black Box & Blind Spot Detection System**  
   Vehicle safety system with ESP8266, GPS, Firebase DB & sensor suite  
